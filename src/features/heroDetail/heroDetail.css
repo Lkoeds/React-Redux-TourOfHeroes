@@ -1,0 +1,17 @@
+#labelHeroName, #labelHeroPower {
+    width: 3em;
+    margin: .5em 5px .5em 0;
+    color: #607D8B;
+    font-weight: bold;
+  }
+  
+#inputHeroName, #inputSuperPower {
+    margin-top: 10px;
+    font-size: 1em;
+    padding: .2em .4em;
+  }
+
+.favCheck{
+  margin: 1em 5px .5em 0;
+  display: block;
+}

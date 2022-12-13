@@ -1,0 +1,29 @@
+.navB ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navB a {
+  padding: 1rem;
+  background-color: #e8e8e8;
+  color: #3d3d3d;
+  text-decoration: none;
+  border-radius: 4px;
+  
+}
+
+.navUl li {
+  display: inline-block;
+  margin: 10px 10px 0 0;
+  cursor: pointer;
+}
+
+.navB a:hover {
+  color: #039be5;
+  background-color: #CFD8DC;
+}
+
+.navB a.active {
+  color: white;
+  background-color: #42545C;
+}
